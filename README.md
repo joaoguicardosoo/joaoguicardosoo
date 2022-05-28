@@ -3,6 +3,7 @@
 
 ### Olá, me chamo João Guilherme.
 
+- 📓 cursando ciência da computação na UFU
 - 🌱 atualmente estudando C, Python e Javascript
 - 💬 estou sempre aberto a sugestões ou perguntas sobre o mundo do backend ❗❓
 - 😄 ele/dele. 👦
