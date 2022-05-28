@@ -4,7 +4,7 @@
 - 💬 Estou sempre aberto a sugestões ou perguntas sobre o mundo do backend ❗❓
 - 📫 Contato: jg567286@gmail.com 📧 Discord: kybur#9651 🎮
 - 😄 Ele/dele. 👦
-- ⚡ fun fact: primeiro contato com computador aos 6 anos 🤖
+- ⚡ fun fact: já cai em um Trojan:32 😭
 - 🗣️ Além da programação, procuro sempre melhorar minhas soft skills 💫
 
 
