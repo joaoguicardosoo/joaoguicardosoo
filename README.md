@@ -17,7 +17,9 @@
  <a href="https://discord.gg/users/199004765328375808" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jg567286@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoguilhermeoliveirac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://open.spotify.com/user/31wqvex6xp2ejbay2zmohdjmeney?si=c6f60b968fb94877" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blan"></a>
+  
+  
 ## stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoguicardosoo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="joaoguicardosoo's Github Stats">
 
