@@ -28,6 +28,6 @@
   
 ## stats
 ![joaoguicardosoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguicardosoo&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguicardosoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguicardosoo&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Snake animation](https://github.com/joaoguicardosoo/joaoguicardosoo/blob/output/github-contribution-grid-snake.svg)
