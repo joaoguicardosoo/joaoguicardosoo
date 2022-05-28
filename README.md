@@ -3,11 +3,11 @@
 
 ### Olá, me chamo João Guilherme.
 
-- 🌱 Atualmente estudando C, Python e Javascript
-- 💬 Estou sempre aberto a sugestões ou perguntas sobre o mundo do backend ❗❓
-- 😄 Ele/dele. 👦
-- ⚡ fun fact: já cai em um Trojan:32 😭
-- 🗣️ Além da programação, procuro sempre melhorar minhas soft skills 💫
+- 🌱 atualmente estudando C, Python e Javascript
+- 💬 estou sempre aberto a sugestões ou perguntas sobre o mundo do backend ❗❓
+- 😄 ele/dele. 👦
+- ⚡ fun fact: minha impressora me acompanha há mais de 10 anos 🐱‍🏍
+- 🗣️ além da programação procuro sempre melhorar minhas soft skills 💫
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
