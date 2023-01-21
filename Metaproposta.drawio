@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T17:27:42.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="r0lolGAMI8mXwvoe6pCR" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T17:31:00.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PLLw8-3sWf_83f17YLWJ" version="20.8.10" type="github">
   <diagram name="Página-1" id="X9tc1C-scuiI4bOKnfBq">
     <mxGraphModel dx="989" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             <mxPoint x="399.6600000000001" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BNlWeiwwDioi3EFX7nlD-17" value="Explicar o proposto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="BNlWeiwwDioi3EFX7nlD-17" value="Replicar o artigo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNlWeiwwDioi3EFX7nlD-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BNlWeiwwDioi3EFX7nlD-2">
